@@ -36,3 +36,4 @@ vignettes/*.pdf
 rsconnect/
 Rplots.pdf
 example_37/
+*.zip
